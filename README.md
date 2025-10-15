@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Dariush Yusufi`
+- **CCID:** `yusufi1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+baeldung (2017) Guide to hashCode() in Java | Baeldung, www.baeldung.com. Available at: https://www.baeldung.com/java-hashcode.
 
 ## Verbal Collaboration
 
